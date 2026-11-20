@@ -3,3 +3,10 @@ Functional requirment
 Login
 Placement portal 
 Viev attendance
+
+
+
+Non functional requirement 
+Security check
+Usablity
+Scalibility
