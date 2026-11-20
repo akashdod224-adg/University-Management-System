@@ -1,0 +1,5 @@
+I am writing functional and non functional requirement of SRS
+Functional requirment 
+Login
+Placement portal 
+Viev attendance
